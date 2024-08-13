@@ -1,5 +1,7 @@
-## NonStyle
+## NonStyle：公開
 
 ## TO DO
 
-### first : まずはpython2で書いてみる
+### first : python2で書いてみる
+
+### second : ゲーム作ってみる 
