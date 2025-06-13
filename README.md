@@ -1,1 +1,1 @@
-These source codes display Error massages that i have collected.
+for making game.
